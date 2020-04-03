@@ -1,0 +1,6 @@
+{
+    "name": "webadv/oef2",
+    "autoload": {
+        "psr-4": {"Util\\": "src/Util/"}
+    }
+}
